@@ -1,0 +1,40 @@
+{
+  "repo": "aditya452007/oyenza-studio",
+  "checked_at": "2026-11-12T14:00:00Z",
+  "since": "2026-11-12",
+  "downloads": 2,
+  "github_count": 2,
+  "ci_count": 0,
+  "last_7_days": 2,
+  "latest": {
+    "release": "v0.2.30",
+    "downloads": 2
+  },
+  "stars": 0,
+  "forks": 0,
+  "watchers": 0,
+  "releases": [
+    {
+      "release": "v0.2.30",
+      "published": "2026-11-12T05:44:42Z",
+      "downloads": 2,
+      "github_count": 2,
+      "ci_count": 0,
+      "files": {
+        "Oyen-Poni-Mac.dmg": 0,
+        "Oyen-Poni-Setup.exe": 1,
+        "Oyenza-Studio-0.2.30-mac.dmg": 0,
+        "Oyenza-Studio-0.2.30-portable.zip": 1,
+        "Oyenza-Studio-Mac.dmg": 0,
+        "Oyenza-Studio-Setup-0.2.30.exe": 0,
+        "Oyenza-Studio-Setup.exe": 0
+      }
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-12",
+      "downloads": 2
+    }
+  ]
+}
