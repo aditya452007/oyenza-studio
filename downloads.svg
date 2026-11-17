@@ -7,16 +7,16 @@
 <path d="M46.0,182.5L792.0,182.5" stroke="#EAD7BC" stroke-width="1"/>
 <path d="M46.0,332.5L792.0,332.5" stroke="#D8BF9C" stroke-width="1"/>
 <path d="M87.0,75.0H769.0A4.0,4.0 0 0 1 773.0,79.0V89.0A4.0,4.0 0 0 1 769.0,93.0H87.0Z" fill="#D9661C"/>
-<path d="M108.6,332.0V186.0A4.0,4.0 0 0 1 112.6,182.0H128.6A4.0,4.0 0 0 1 132.6,186.0V332.0Z" fill="#D9661C"/>
+<path d="M96.2,332.0V186.0A4.0,4.0 0 0 1 100.2,182.0H116.2A4.0,4.0 0 0 1 120.2,186.0V332.0Z" fill="#D9661C"/>
 <text x="28.0" y="44.0" font-size="16" fill="#2B1B10" font-weight="600">Downloads per release</text>
 <text x="77.0" y="88.0" font-size="14" fill="#6B5442" text-anchor="end" style="font-variant-numeric: tabular-nums">0.2.30</text>
 <text x="781.0" y="88.5" font-size="14" fill="#2B1B10" font-weight="600">2</text>
 <text x="28.0" y="144.0" font-size="16" fill="#2B1B10" font-weight="600">Downloads per day</text>
-<text x="717.4" y="325.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">0</text>
-<text x="120.6" y="175.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">2</text>
+<text x="729.8" y="325.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">0</text>
+<text x="108.2" y="175.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">2</text>
 <text x="36.0" y="336.5" font-size="12" fill="#7A6450" text-anchor="end" style="font-variant-numeric: tabular-nums">0</text>
 <text x="36.0" y="261.5" font-size="12" fill="#7A6450" text-anchor="end" style="font-variant-numeric: tabular-nums">1</text>
 <text x="36.0" y="186.5" font-size="12" fill="#7A6450" text-anchor="end" style="font-variant-numeric: tabular-nums">2</text>
-<text x="717.4" y="352.0" font-size="12" fill="#7A6450" text-anchor="middle">16 Nov</text>
+<text x="729.8" y="352.0" font-size="12" fill="#7A6450" text-anchor="middle">17 Nov</text>
 </g>
 </svg>
