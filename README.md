@@ -4,7 +4,7 @@
 
 <p align="center">of Oyenza Studio for Windows, from GitHub since 12 Nov 2026<br>Latest release, 0.2.30: <b>2</b> · Last 7 days: <b>0</b> · <b>0</b> stars on GitHub</p>
 
-<p align="center"><img src="downloads.svg" width="820" alt="Bar chart of downloads per release: 0.2.30 2; and per day, for the last 8 days"></p>
+<p align="center"><img src="downloads.svg" width="820" alt="Bar chart of downloads per release: 0.2.30 2; and per day, for the last 9 days"></p>
 
 ## Per release
 
@@ -18,6 +18,7 @@
 | Day | Downloads |
 | --- | --: |
 | Today | 0 |
+| 19 Nov 2026 | 0 |
 | 18 Nov 2026 | 0 |
 | 17 Nov 2026 | 0 |
 | 16 Nov 2026 | 0 |
@@ -42,4 +43,4 @@
 
 </details>
 
-<sub>Updated 19 Nov 2026, 02:50 UTC by [Download stats](https://github.com/aditya452007/oyenza-studio/actions/workflows/metrics.yml), every hour · Data: [downloads](data/downloads.csv), [CI downloads](data/ci-downloads.csv), [stars](data/repo.csv), [summary.json](summary.json)</sub>
+<sub>Updated 20 Nov 2026, 02:38 UTC by [Download stats](https://github.com/aditya452007/oyenza-studio/actions/workflows/metrics.yml), every hour · Data: [downloads](data/downloads.csv), [CI downloads](data/ci-downloads.csv), [stars](data/repo.csv), [summary.json](summary.json)</sub>
