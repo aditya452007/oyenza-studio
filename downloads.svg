@@ -7,17 +7,17 @@
 <path d="M46.0,182.5L792.0,182.5" stroke="#EAD7BC" stroke-width="1"/>
 <path d="M46.0,332.5L792.0,332.5" stroke="#D8BF9C" stroke-width="1"/>
 <path d="M87.0,75.0H769.0A4.0,4.0 0 0 1 773.0,79.0V89.0A4.0,4.0 0 0 1 769.0,93.0H87.0Z" fill="#D9661C"/>
-<path d="M67.9,332.0V186.0A4.0,4.0 0 0 1 71.9,182.0H87.9A4.0,4.0 0 0 1 91.9,186.0V332.0Z" fill="#D9661C"/>
+<path d="M65.1,332.0V186.0A4.0,4.0 0 0 1 69.1,182.0H85.1A4.0,4.0 0 0 1 89.1,186.0V332.0Z" fill="#D9661C"/>
 <text x="28.0" y="44.0" font-size="16" fill="#2B1B10" font-weight="600">Downloads per release</text>
 <text x="77.0" y="88.0" font-size="14" fill="#6B5442" text-anchor="end" style="font-variant-numeric: tabular-nums">0.2.30</text>
 <text x="781.0" y="88.5" font-size="14" fill="#2B1B10" font-weight="600">2</text>
 <text x="28.0" y="144.0" font-size="16" fill="#2B1B10" font-weight="600">Downloads per day</text>
-<text x="758.1" y="325.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">0</text>
-<text x="79.9" y="175.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">2</text>
+<text x="760.9" y="325.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">0</text>
+<text x="77.1" y="175.0" font-size="13" fill="#2B1B10" font-weight="600" text-anchor="middle">2</text>
 <text x="36.0" y="336.5" font-size="12" fill="#7A6450" text-anchor="end" style="font-variant-numeric: tabular-nums">0</text>
 <text x="36.0" y="261.5" font-size="12" fill="#7A6450" text-anchor="end" style="font-variant-numeric: tabular-nums">1</text>
 <text x="36.0" y="186.5" font-size="12" fill="#7A6450" text-anchor="end" style="font-variant-numeric: tabular-nums">2</text>
-<text x="758.1" y="352.0" font-size="12" fill="#7A6450" text-anchor="middle">22 Nov</text>
-<text x="283.4" y="352.0" font-size="12" fill="#7A6450" text-anchor="middle">15 Nov</text>
+<text x="760.9" y="352.0" font-size="12" fill="#7A6450" text-anchor="middle">23 Nov</text>
+<text x="325.8" y="352.0" font-size="12" fill="#7A6450" text-anchor="middle">16 Nov</text>
 </g>
 </svg>
